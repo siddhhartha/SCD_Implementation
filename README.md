@@ -9,4 +9,4 @@ This project implements a modern Data Lakehouse architecture on Microsoft Azure 
  Architecture Diagram
 
 
- 
+ ![image alt](https://github.com/siddhhartha/SCD_Implementation/blob/3c3adcd06fa4e1e13ed05389f8da2548f3c52179/Screenshot%202025-06-15%20000446.png)
